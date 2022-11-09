@@ -1,5 +1,6 @@
 ## Hello!👋 My name is Lucas
-💻Computer Science Student at Cefet/RJ
+#### 💻Computer Science Student at Cefet/RJ | 👦 22 years old
+#### 🏖 Rio de Janeiro, Rio de Janeiro, Brazil | 💼 Looking for a job opportunity
 
 <div align="center">
   <a href="https://github.com/LucasMAlc">
