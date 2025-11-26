@@ -1,6 +1,6 @@
 ## Hello!👋 My name is Lucas
 #### 💻Computer Science Student at Cefet/RJ | 👦 25 years old
-#### 🏖 Rio de Janeiro, Rio de Janeiro, Brazil | 💼 Backend Developer
+#### 🏖 Rio de Janeiro, Rio de Janeiro, Brazil | 💼 Software Developer
 
 Me chamo Lucas Moura Alcantara, tenho 25 anos e sou estudante de Ciência da Computação no CEFET/RJ. 
 Desde o ensino técnico, venho aprofundando meus conhecimentos na área de desenvolvimento de software, com ênfase em backend e inteligência artificial. 
